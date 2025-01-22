@@ -1,0 +1,14 @@
+Webcrack Technologies
+www.webcrackdigitals.com
++2349013532902
+
+
+INSTALLATION STEPS:
+- edit database details in: /connect/include/dbconfig.php
+- edit database details in: /connect/jsp/admin/connectdb.php
+
+- edit email information on: /conct/jsp/carepack.php
+- edit email information on: /connect/jsp/applyleave.php
+- edit email information on: /contacts/index.php
+- edit email information on: /connect/jsp/booking.php
+- edit email information on: /connect/jsp/medikit.php
